@@ -1,2 +1,2 @@
 # My_Snake
-Comon Snake
+Comon Kotlin Snake
