@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Snake6</string>
+    <string name="play_ground">play_ground</string>
+    <string name="down">Down</string>
+    <string name="right">Right</string>
+    <string name="left">Left</string>
+    <string name="up">Up</string>
+    <string name="press_to_start">Press to start</string>
+    <string name="or_go_back">Or go back</string>
+</resources>
