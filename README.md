@@ -1,2 +1,2 @@
 # My_Snake
-Comon Kotlin Snake
+Comon Kotlin Snake on Android Studio
